@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋 I'm Ana Manzan, a Back-end Developer
 
 <!--
 **anamanzandev/anamanzandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#### Follow me on my social networks:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/anamanzandev)](https://github.com/anamanzandev)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anamanzandev)](https://www.linkedin.com/in/anamanzandev/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/anamanzandev)](https://medium.com/anamanzandev)
