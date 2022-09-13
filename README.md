@@ -2,10 +2,10 @@
 
 - 👩‍💻 Pronouns: She/Her/Hers
 - 💗 In love with C# and TypeScript
-- 🤓 I’m currently learning about Software Architecture
+- 🤓 I’m currently learning about DevOps
 - 📝 I'm a content creator at [anamanzan.dev](https://anamanzan.dev)
 - 🎤 I'm also a speaker
-- 💬 Ask me about: .NET, Node.js, Angular, Azure
+- 💬 Ask me about: .NET, Azure, Azure DevOps
 - 📫 How to reach me: falecom@anamanzan.dev
 
 ![Ana's github stats](https://github-readme-stats.vercel.app/api?username=anamanzandev&show_icons=true&theme=dracula)
