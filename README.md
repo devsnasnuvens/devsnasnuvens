@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm Ana Manzan, a Back-end Developer
 
 - 👩‍💻 Pronouns: She/Her/Hers
-- 💗 In love with C# and TypeScript
+- 💗 In love with C#, .NET, Architecture and Cloud
 - 🤓 I’m currently learning about DevOps
 - 📝 I'm a content creator at [anamanzan.dev](https://anamanzan.dev)
 - 🎤 I'm also a speaker
-- 💬 Ask me about: .NET, Azure, Azure DevOps
+- 💬 Ask me about: .NET, Azure, Azure DevOps, Software Architecture
 - 📫 How to reach me: falecom@anamanzan.dev
 
 ![Ana's github stats](https://github-readme-stats.vercel.app/api?username=anamanzandev&show_icons=true&theme=dracula)
