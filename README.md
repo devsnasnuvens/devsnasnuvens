@@ -13,6 +13,6 @@
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anamanzandev&theme=dracula&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 #### You can find me here
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/anamanzandev)](https://github.com/anamanzandev)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-fff?style=flat-square&logo=Instagram&link=https://instagram.com/anamanzandev)](https://instagram.com/anamanzandev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anamanzandev)](https://www.linkedin.com/in/anamanzandev/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/anamanzandev)](https://medium.com/anamanzandev)
