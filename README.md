@@ -14,4 +14,4 @@
 #### You can find me here
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-fff?style=flat-square&logo=Instagram&link=https://instagram.com/devsnasnuvens)](https://instagram.com/devsnasnuvens)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anamanzandev)](https://www.linkedin.com/in/anamanzandev/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/devsnasnuvens)](https://medium.com/devsnasnuvens)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/reniciuspagotto)](https://dev.to/devsnasnuvens)
